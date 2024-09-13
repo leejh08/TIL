@@ -21,5 +21,8 @@ for (const key in student) {
     console.log(`${key}: ${student[key]}`);
 }
 
+채ㅜ
+
+
 console.log(parseInt("hello"));
 console.log(typeof NaN);
